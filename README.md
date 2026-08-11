@@ -23,3 +23,20 @@ cytokinin-bioprocess-modeling/
 ├── figures/       Figures generated from the computational analyses
 ├── results/       Numerical results and optimization outputs
 └── src/           Reusable Python functions
+```
+## Computational workflow
+
+The repository follows the main computational stages of the study:
+
+**Experimental data → RSM/GP modeling → uncertainty quantification → Bayesian optimization → hybrid modeling and in silico scale-up**
+
+## Current status
+
+The repository is currently being organized and documented. Additional notebooks and documentation will be incorporated progressively.
+
+## Author
+
+Armando Navarro
+
+Master's Program in Chemical Engineering  
+Universidad de Guanajuato 
